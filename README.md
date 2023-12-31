@@ -1,5 +1,5 @@
 ![alt text](https://github.com/AMMAR839/Ammar-Ali-Yasir/blob/main/WIN_20231003_10_30_26_Pro.jpg?raw=true)
-<h1 align="center">masih pemula Ammar Ali Yasir</h1>
+<h1 align="center">Ammar Ali Yasir</h1>
 <h3 align="center">Seorang Mahasiswa</h3>
 
 - ⚡ Fun fact **Saya suka memasak**
